@@ -1,0 +1,4 @@
+Nombre: Hanna Acosta | Edad: 20 | Carrera: Software | Promedio: 9
+Nombre: Andres Aldas | Edad: 28 | Carrera: Psicologia | Promedio: 6.5
+Nombre: Fabricio | Edad: 20 | Carrera: Medicina | Promedio: 8
+Nombre: Hanna Acosta | Edad: 18 | Carrera: Software | Promedio: 9
